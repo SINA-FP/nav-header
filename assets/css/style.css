@@ -17,12 +17,12 @@ body {
 .navSection {
     width: 100%;
     background-color: #fff;
-    height: 100px;
     margin-top: 1rem;
     border-radius: 10px;
     box-shadow: 0 2px 8px 0 rgba(99, 99, 99, 0.2);
     padding: 1rem 2rem;
-    display: flex;
+    display: grid;
+    grid-template-columns: 10% 45% 25%;
     justify-content: space-between;
 }
 
@@ -44,10 +44,6 @@ body {
 
 img {
     width: 100%;
-}
-
-.navCenter {
-    width: 50%;
 }
 
 ul {
@@ -72,7 +68,6 @@ a {
 
 .rightNav {
     display: flex;
-    width: 20%;
     align-items: center;
     gap: 2rem;
 }
