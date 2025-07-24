@@ -120,4 +120,20 @@ a {
     .active{
         padding: 6px;
     }
+
+    .icons a svg {
+
+        width: 13px;
+    }
+
+    .status {
+        width: 57px;
+        padding: 0.2rem;
+        font-size: 0.8rem;
+    }
+
+    .userProfile {
+        width: 40px;
+        height: 40px;
+    }
 }
