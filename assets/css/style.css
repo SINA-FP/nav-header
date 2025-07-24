@@ -116,4 +116,8 @@ a {
     .navCenter ul li a {
         font-size: 0.8rem;
     }
+
+    .active{
+        padding: 6px;
+    }
 }
