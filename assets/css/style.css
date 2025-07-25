@@ -107,9 +107,9 @@ a {
 }
 
 #toggle:checked+label span:first-child {
-    transform: rotate(127deg);
+    transform: rotate(125deg);
     position: relative;
-    top: -4px;
+    top: 10px;
 }
 
 #toggle:checked+label span.midLine {
@@ -119,7 +119,6 @@ a {
 
 #toggle:checked+label span:last-child {
     position: relative;
-    top: -15px;
     transform: rotate(58deg);
 }
 
