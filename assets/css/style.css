@@ -190,7 +190,7 @@ h3 {
 
     .icons {
         gap: 1.5rem;
-        margin-right: 0.5rem;
+        margin-right: 1px;
     }
 
     .icons a svg {
